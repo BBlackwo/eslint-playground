@@ -1,4 +1,4 @@
-var reassigned = '1';
-reassigned = 2;
+let shouldBeLet = 1;
+shouldBeLet = 2;
 
-var notReassigned = 'abc';
+const shouldBeConst = 'abc';

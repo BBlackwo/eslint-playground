@@ -7,5 +7,6 @@ Place to test ESLint
 nvm use
 npm install
 
+npx eslint index.js
 npx eslint index.js --fix
 ```

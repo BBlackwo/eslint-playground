@@ -1,6 +1,11 @@
 {
+    "env": {
+      "node": true,
+      "es6": true
+    },
     "extends": "",
     "rules": {
-      "no-var": 2
+      "no-var": 2,
+      "prefer-const": 2
     }
 }
